@@ -4,4 +4,4 @@ The link for the kaggle playground(competitions) is provided [here.](https://www
 
 I aimed to use CatBoost for model training, and i reached a good accuracy, but maybe in the future i will check on it later and try to implement a better model, i will give the updates here if so.
 
-Any questions? Contact [me.])(Shahbods26@gmail.com).
+Any questions? Contact [me.](Shahbods26@gmail.com).
